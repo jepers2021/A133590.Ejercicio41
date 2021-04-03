@@ -18,7 +18,7 @@ namespace A133590.Ejercicio41
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Ejercicio 39");
+            Console.WriteLine("Ejercicio 41");
             Console.WriteLine("Programa que recibe una serie de fechas y luego las presenta en orden ascendente.");
             List<DateTime> lista = new List<DateTime>();
             string seguir = "";
